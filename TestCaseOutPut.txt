@@ -1,0 +1,146 @@
+Welcom to Our Application!!!
+User Id must be between 0 and 500
+Tweet Id must be between 0 and 10000
+Select Any Option 
+ Option 1: Post Tweet 
+ Option 2 : Fetch Tweets By user  
+ Option 3: Follow User  
+ Option 4: Unfollow 
+ Enter Number Greatre than 4 for Exit
+1
+Enter User Id (In Number)
+1
+Enter twitterId (In Number)
+5
+Hello User 1 ,Your Tweet has been Posted SuccessFully.
+Select Any Option 
+ Option 1: Post Tweet 
+ Option 2 : Fetch Tweets By user  
+ Option 3: Follow User  
+ Option 4: Unfollow 
+ Enter Number Greatre than 4 for Exit
+1
+Enter User Id (In Number)
+2
+Enter twitterId (In Number)
+5
+equals override method called
+Tweet with Tweet Id already in the System
+Select Any Option 
+ Option 1: Post Tweet 
+ Option 2 : Fetch Tweets By user  
+ Option 3: Follow User  
+ Option 4: Unfollow 
+ Enter Number Greatre than 4 for Exit
+2
+Enter User Id (In Number)
+2
+totalTweets:: []
+User 2 Latest Tweets are:  []
+user1Tweets::[]
+Select Any Option 
+ Option 1: Post Tweet 
+ Option 2 : Fetch Tweets By user  
+ Option 3: Follow User  
+ Option 4: Unfollow 
+ Enter Number Greatre than 4 for Exit
+1
+Enter User Id (In Number)
+2
+Enter twitterId (In Number)
+6
+Hello User 2 ,Your Tweet has been Posted SuccessFully.
+Select Any Option 
+ Option 1: Post Tweet 
+ Option 2 : Fetch Tweets By user  
+ Option 3: Follow User  
+ Option 4: Unfollow 
+ Enter Number Greatre than 4 for Exit
+2
+Enter User Id (In Number)
+2
+usrTweet:: [Tweets{tweetId=6, userTweetCount=2, tweetContent=?Zo?q??}]
+totalTweets:: [Tweets{tweetId=6, userTweetCount=2, tweetContent=?Zo?q??}]
+User 2 Latest Tweets are:  [6]
+user1Tweets::[6]
+Select Any Option 
+ Option 1: Post Tweet 
+ Option 2 : Fetch Tweets By user  
+ Option 3: Follow User  
+ Option 4: Unfollow 
+ Enter Number Greatre than 4 for Exit
+3
+Enter User Id Who will follow to Other User
+1
+Enter User Id To whom Followed
+2
+usersFollowees:: {1=[2]}
+User 1 followed 2
+usrTweet:: [Tweets{tweetId=5, userTweetCount=1, tweetContent=?|??!}]
+followeeTweet:: [Tweets{tweetId=6, userTweetCount=2, tweetContent=?Zo?q??}]
+totalTweets:: [Tweets{tweetId=5, userTweetCount=1, tweetContent=?|??!}, Tweets{tweetId=6, userTweetCount=2, tweetContent=?Zo?q??}]
+User 1 Latest Tweets are:  [6, 5]
+user1TweetsAfterFollowuser2::[6, 5]
+Select Any Option 
+ Option 1: Post Tweet 
+ Option 2 : Fetch Tweets By user  
+ Option 3: Follow User  
+ Option 4: Unfollow 
+ Enter Number Greatre than 4 for Exit
+2
+Enter User Id (In Number)
+2
+usrTweet:: [Tweets{tweetId=6, userTweetCount=2, tweetContent=?Zo?q??}]
+totalTweets:: [Tweets{tweetId=6, userTweetCount=2, tweetContent=?Zo?q??}]
+User 2 Latest Tweets are:  [6]
+user1Tweets::[6]
+Select Any Option 
+ Option 1: Post Tweet 
+ Option 2 : Fetch Tweets By user  
+ Option 3: Follow User  
+ Option 4: Unfollow 
+ Enter Number Greatre than 4 for Exit
+2
+Enter User Id (In Number)
+1
+usrTweet:: [Tweets{tweetId=5, userTweetCount=1, tweetContent=?|??!}]
+followeeTweet:: [Tweets{tweetId=6, userTweetCount=2, tweetContent=?Zo?q??}]
+totalTweets:: [Tweets{tweetId=5, userTweetCount=1, tweetContent=?|??!}, Tweets{tweetId=6, userTweetCount=2, tweetContent=?Zo?q??}]
+User 1 Latest Tweets are:  [6, 5]
+user1Tweets::[6, 5]
+Select Any Option 
+ Option 1: Post Tweet 
+ Option 2 : Fetch Tweets By user  
+ Option 3: Follow User  
+ Option 4: Unfollow 
+ Enter Number Greatre than 4 for Exit
+4
+Enter User Id Who will unfollow to Other User
+1
+Enter User Id To whom unFollowed
+2
+User 1 unfollowed 2
+usrTweet:: [Tweets{tweetId=5, userTweetCount=1, tweetContent=?|??!}]
+totalTweets:: [Tweets{tweetId=5, userTweetCount=1, tweetContent=?|??!}]
+User 1 Latest Tweets are:  [5]
+user1TweetsAfterUnfollowUser2::[5]
+Select Any Option 
+ Option 1: Post Tweet 
+ Option 2 : Fetch Tweets By user  
+ Option 3: Follow User  
+ Option 4: Unfollow 
+ Enter Number Greatre than 4 for Exit
+2
+Enter User Id (In Number)
+1
+usrTweet:: [Tweets{tweetId=5, userTweetCount=1, tweetContent=?|??!}]
+totalTweets:: [Tweets{tweetId=5, userTweetCount=1, tweetContent=?|??!}]
+User 1 Latest Tweets are:  [5]
+user1Tweets::[5]
+Select Any Option 
+ Option 1: Post Tweet 
+ Option 2 : Fetch Tweets By user  
+ Option 3: Follow User  
+ Option 4: Unfollow 
+ Enter Number Greatre than 4 for Exit
+5
